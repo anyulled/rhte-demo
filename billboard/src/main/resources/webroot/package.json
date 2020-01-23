@@ -15,7 +15,7 @@
     "moment": "2.22.2",
     "popper.js": "^1.14.4",
     "sockjs-client": "1.1.5",
-    "vertx3-eventbus-client": "3.4.2"
+    "vertx3-eventbus-client": "3.8.4"
   },
   "engines": {
     "node": ">=0.10.10"
