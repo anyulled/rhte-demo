@@ -47,7 +47,7 @@
     <vertx.version>3.7.1.redhat-00012</vertx.version>
     <log4j2.version>2.11.1</log4j2.version>
     <rxjava.version>2.2.0</rxjava.version>
-    <ispn.version>9.2.0.Final</ispn.version>
+    <ispn.version>9.4.1.Final</ispn.version>
   </properties>
 
   <scm>
