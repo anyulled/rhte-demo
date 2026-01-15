@@ -37,7 +37,7 @@
     <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
     <maven-install-plugin.version>2.5.2</maven-install-plugin.version>
     <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
-    <maven-resources-plugin.version>3.1.0</maven-resources-plugin.version>
+    <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
     <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
     <vertx-maven-plugin.version>1.0.17</vertx-maven-plugin.version>
 
